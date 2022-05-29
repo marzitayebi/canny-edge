@@ -28,6 +28,7 @@ cv2.imshow ("image", img)
 cv2.imshow ("sobelCombined", sobelCombined)
 cv2.imshow ("sobelY", sobelY)
 cv2.imshow ("Canny", edges)
+cv2.imshow ("sobelX", sobelX)
 
 plt.imshow(img)
 plt.show()
